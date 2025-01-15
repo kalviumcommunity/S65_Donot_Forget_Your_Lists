@@ -1,4 +1,4 @@
-  # ***Don't Forget Your Lists !!***
+  # ***Don't Forget Your Lists !!!***
 
   A fun and useful checklist app to help you remember everything before leaving your room! Whether it's your keys, your phone, or your pants, this app ensures you never forget the essentials (and some quirky items too)!
 
