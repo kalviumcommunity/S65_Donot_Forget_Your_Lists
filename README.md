@@ -89,7 +89,7 @@ The Don't Forget List is a personalized checklist app that allows users to creat
   
   4. Start the backend server:
 
-  npm start
+    npm start
 
   #### Frontend Setup :
   
@@ -108,7 +108,7 @@ The Don't Forget List is a personalized checklist app that allows users to creat
    4. Open your browser and visit the development URL provided by Vite (usually http://localhost:5173)
 
 
-  #### Full Application
+  #### Full Application :
 
   Once both the backend and frontend servers are running:
 
@@ -116,13 +116,26 @@ The Don't Forget List is a personalized checklist app that allows users to creat
    2. The frontend will connect to the backend API seamlessly
 
 
-  #### Usage
+  #### Usage :
    1. Sign up or log in to create your personalized checklist
    2. Add items to your checklist and mark them as high or low priority
    3. Get daily suggestions to make your day more productive and entertaining!
    4. Export or share your checklist with friends or family
 
-  #### Why This Project
+  #### Why This Project :
   
-  A great combination of usefulness and humor in solving a quite common problem, while making sure to have an enjoyable user experience. It's a great project that showcases full-stack development skills while keeping users organized and entertained.
+  1. Uniqueness:
+     
+     A humorous twist on a practical concept makes this project stand out. The quirky suggestions keep it engaging and relatable
+
+  2. Skill Development:
+
+     Setting up user authentication
+     Building and deploying a full-stack application
+     Learning CRUD operations in React and Node.js
+     Practicing API design and database management
+   
+  3. Real-World Relevance:
+     
+     The project addresses a universal problem: forgetting important items when leaving. It’s both useful and entertaining.
 
