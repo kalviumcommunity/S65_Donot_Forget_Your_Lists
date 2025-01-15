@@ -70,7 +70,6 @@ The Don't Forget List is a personalized checklist app that allows users to creat
    1. Clone the repository to your local system using the following command:
 
     git clone https://github.com/your-username/dont-forget-list.git
-  
     cd dont-forget-list
 
   #### Backend Setup :
