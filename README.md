@@ -124,5 +124,18 @@ The Don't Forget List is a personalized checklist app that allows users to creat
 
   #### Why This Project :
   
-  A great combination of usefulness and humor in solving a quite common problem while making sure to have an enjoyable user experience. It's a great project that showcases full-stack development skills while keeping users organized and entertained
+  1. Uniqueness:
+     
+     A humorous twist on a practical concept makes this project stand out. The quirky suggestions keep it engaging and relatable
+
+  2. Skill Development:
+
+     Setting up user authentication
+     Building and deploying a full-stack application
+     Learning CRUD operations in React and Node.js
+     Practicing API design and database management
+   
+  3. Real-World Relevance:
+     
+     The project addresses a universal problem: forgetting important items when leaving. It’s both useful and entertaining.
 
