@@ -137,5 +137,5 @@ The Don't Forget List is a personalized checklist app that allows users to creat
    
   3. Real-World Relevance:
      
-     The project addresses a universal problem: forgetting important items when leaving. It’s both useful and entertaining.
+     The project addresses a universal problem: forgetting important items when leaving. It’s both useful and entertaining 
 
